@@ -170,6 +170,7 @@
     <ClCompile Include="InvertTransform.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Test_TP4.cpp" />
+    <ClCompile Include="TransformContainer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
