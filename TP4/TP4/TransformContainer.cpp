@@ -6,14 +6,3 @@
 ///////////////////////////////////////////////////////////
 
 #include "TransformContainer.h"
-
-
-TransformContainer::TransformContainer() {
-
-}
-
-
-
-TransformContainer::~TransformContainer() {
-
-}

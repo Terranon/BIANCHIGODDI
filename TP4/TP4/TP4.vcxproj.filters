@@ -48,6 +48,9 @@
     <ClInclude Include="CompositeTransform.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TransformContainer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="RepeatTransform.cpp">
@@ -78,6 +81,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="AbsTransform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformContainer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

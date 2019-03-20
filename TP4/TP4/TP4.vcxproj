@@ -30,6 +30,7 @@
     <ClInclude Include="RepeatTransform.h" />
     <ClInclude Include="ResultatTest.h" />
     <ClInclude Include="Test_TP4.h" />
+    <ClInclude Include="TransformContainer.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AbsTransform.cpp" />
@@ -42,6 +43,7 @@
     <ClCompile Include="MemAudioFile.cpp" />
     <ClCompile Include="RepeatTransform.cpp" />
     <ClCompile Include="Test_TP4.cpp" />
+    <ClCompile Include="TransformContainer.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
