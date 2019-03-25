@@ -12,11 +12,9 @@
 // Methode pour appliquer une transformation d'inversion à un Chunk
 void InvertTransform::transform(const Chunk_iterator& c, AbsAudioFile& outFile) const
 {
-	Chunk_iterator tmp = c;
-	size_t j = 0;
-	for (size_t i = (c->size() - 1); i >= 0; i--) {
-		tmp.operator[](j) = (c.operator[](i));
-		j++;
+	Chunk_iterator newChunkIt = Chunk_iterator(c);
+	for (size_t i = c->size(); i >= 0; i--) {
+		newChunkIt->get()[i] = c->get()[c->size() - 1 - i];
 	}
-	outFile.addChunk(tmp);
+	outFile.addChunk(newChunkIt);
 }
