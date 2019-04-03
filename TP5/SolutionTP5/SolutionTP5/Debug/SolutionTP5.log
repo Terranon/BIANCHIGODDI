@@ -1,0 +1,23 @@
+﻿  TransformCommand.cpp
+  Test_TP5.cpp
+c:\users\maximilien bianchi\desktop\log2410\bianchigoddi\bianchigoddi\tp5\solutiontp5\solutiontp5\test_tp5.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\maximilien bianchi\desktop\log2410\bianchigoddi\bianchigoddi\tp5\solutiontp5\solutiontp5\test_tp5.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  StringFindReplaceCommand.cpp
+  RepeatTransform.cpp
+  MemAudioFile.cpp
+  Main.cpp
+  InvertTransform.cpp
+  FileStringFindReplace.cpp
+  FileChecksumCalculator.cpp
+  CompositeTransform.cpp
+  CommandExecutor.cpp
+  ChunkIterator.cpp
+  Chunk.cpp
+  ChecksumCommand.cpp
+  AudioFile.cpp
+c:\users\maximilien bianchi\desktop\log2410\bianchigoddi\bianchigoddi\tp5\solutiontp5\solutiontp5\audiofile.cpp(30): warning C4244: 'initializing': conversion from 'std::streamoff' to '::size_t', possible loss of data
+c:\users\maximilien bianchi\desktop\log2410\bianchigoddi\bianchigoddi\tp5\solutiontp5\solutiontp5\audiofile.cpp(86): warning C4244: 'initializing': conversion from 'std::streamoff' to '::size_t', possible loss of data
+c:\users\maximilien bianchi\desktop\log2410\bianchigoddi\bianchigoddi\tp5\solutiontp5\solutiontp5\audiofile.cpp(93): warning C4244: 'initializing': conversion from 'std::streamoff' to '::size_t', possible loss of data
+  AbsTransform.cpp
+  Generating Code...
+  SolutionTP5.vcxproj -> C:\Users\Maximilien Bianchi\Desktop\LOG2410\BIANCHIGODDI\BIANCHIGODDI\TP5\SolutionTP5\Debug\SolutionTP5.exe
